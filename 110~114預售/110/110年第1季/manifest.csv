@@ -1,0 +1,6 @@
+name,schema,description
+a_lvr_buildingland.csv,schema-buildingland.csv,臺北市預售屋備查建案基地
+a_lvr_buildcase.csv,schema-main-buildcase.csv,臺北市預售屋備查
+f_lvr_buildingpermit.csv,schema-buildingpermit.csv,新北市預售屋備查建照執造
+f_lvr_buildcase.csv,schema-main-buildcase.csv,新北市預售屋備查
+f_lvr_buildingland.csv,schema-buildingland.csv,新北市預售屋備查建案基地
